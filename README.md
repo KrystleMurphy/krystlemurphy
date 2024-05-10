@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Krystle!
-## 👩🏻‍💻 Software Engineer<br/>
-## 👩🏻‍🎓 Studied Front End Web Dev through the University of Birmingham & EdX<br/>
+
+ 👩🏻‍💻 Software Engineer<br/>
+ 
+ 👩🏻‍🎓 Studied Front End Web Dev through the University of Birmingham & EdX<br/>
 
 Continuing my coding journey with<br/>
 
