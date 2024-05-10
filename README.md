@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Krystle!
 
+🏳️‍🌈🎷🎵🐶🎨👩‍🏫
+
  👩🏻‍💻 Software Engineer<br/>
  
  👩🏻‍🎓 Studied Front End Web Dev through the University of Birmingham & EdX<br/>
@@ -8,6 +10,9 @@ Continuing my coding journey with<br/>
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)  ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white) ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)<br/>
 
+
+# 👩‍💻Currently working on 
+developing a full stack, cross platform app to provide an innovative communication solution 👀🔥🤩
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=krystlemurphy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
