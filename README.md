@@ -2,6 +2,7 @@
 👩🏻‍💻 Software Engineer<br/>
 👩🏻‍🎓 Studied Front End Web Dev through the University of Birmingham & EdX<br/>
 Continuing my coding journey with<br/>
+
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)  ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white) ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)<br/>
 
 
@@ -22,6 +23,6 @@ Continuing my coding journey with<br/>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-#💻 IDEs/Editors <br/>
+# 💻 IDEs/Editors <br/>
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
