@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Krystle!
 
-🏳️‍🌈🎷🎵🐶🎨👩‍🏫
-
  👩🏻‍💻 Software Engineer<br/>
  
  👩🏻‍🎓 Studied Front End Web Dev through the University of Birmingham & EdX<br/>
@@ -12,7 +10,7 @@ Continuing my coding journey with<br/>
 
 
 # 👩‍💻Currently working on 
-developing a full stack, cross platform app to provide an innovative communication solution 👀🔥🤩
+a website revamp - check out my portfolio 👀🔥🤩
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=krystlemurphy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
