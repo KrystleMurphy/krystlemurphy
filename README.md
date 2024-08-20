@@ -10,7 +10,7 @@ Continuing my coding journey with<br/>
 
 
 # 👩‍💻Currently working on 
-a website revamp - check out my portfolio 👀🔥🤩
+Medi-tech website revamp - check out my portfolio 👀🔥🤩
 
 
 # 💻 Tech Stack
@@ -30,5 +30,7 @@ a website revamp - check out my portfolio 👀🔥🤩
 # 💻 IDEs/Editors <br/>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
+[![Krystle’s github stats](https://github-readme-stats.vercel.app/api?username=krystlemurphy)](https://github.com/krystlemurphy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krystlemurphy&layout=compact)](https://github.com/krystlemurphy)
