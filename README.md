@@ -12,7 +12,12 @@ Continuing my coding journey with<br/>
 
 
 # 👩‍💻Currently working on 
-Medi-tech website revamp - check out my portfolio 👀🔥🤩
+
+Medi-tech website revamp - check out my portfolio 👀🔥🤩 <br>
+
+Learning the basics of Python - Python and Apps, Code First Girls, sponsered by Sainsburys 🦾 ✅ <br>
+
+Landing a software job 🙌 <br>
 
 
 # 💻 Tech Stack
