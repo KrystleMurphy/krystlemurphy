@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Krystle!
 
- 👩🏻‍💻 Front-End Web Developer<br/>
+ 👩🏻‍💻 Web Developer<br/>
  
  👩🏻‍🎓 Studied Front End Web Development through the University of Birmingham & EdX<br/>
 
