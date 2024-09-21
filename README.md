@@ -4,7 +4,7 @@
  
  👩🏻‍🎓 Studied Front End Web Development through the University of Birmingham & EdX<br/>
 
-Continuing my coding journey with<br/>
+I'm passionate about continuous learning and currently expanding my skills with:
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)  ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white) ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white) ![Code First Girls](https://img.shields.io/badge/Code%20First%20Girls-%23FF69B4.svg?&style=for-the-badge&logo=codefirstgirls&logoColor=white)
 
@@ -13,11 +13,11 @@ Continuing my coding journey with<br/>
 
 # 👩‍💻Currently working on 
 
-Medi-tech website revamp - check out my portfolio 👀🔥🤩 <br>
+Medi-tech Website Revamp – Check out my portfolio for more details! 👀🔥 <br/>
 
-Learning the basics of Python - Python and Apps, Code First Girls, sponsered by Sainsburys 🦾 ✅ <br>
+Learning Python – Completing the Python and Apps course with Code First Girls, sponsored by Sainsbury’s 🦾 ✅ <br/>
 
-Landing a software job 🙌 <br>
+Pursuing a Software Development Role – Actively applying and building projects to strengthen my skills 🙌 <br/>
 
 
 # 💻 Tech Stack
